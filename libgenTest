@@ -1,0 +1,21 @@
+const libgen = require("libgen");
+async function libgenTest(query) {
+  const queryResult = await libgen.search({
+    query: query,
+    mirror: "http://gen.lib.rus.ec",
+    count: 10,
+  });
+  let n = queryResult.length;
+  while (n--) {
+    console.log("");
+    console.log("Title: " + queryResult[n].title);
+    console.log("Author: " + queryResult[n].author);
+    console.log(
+      "Download: " +
+        "http://gen.lib.rus.ec/book/index.php?md5=" +
+        queryResult[n].md5.toLowerCase()
+    );
+  }
+}
+
+libgenTest("aristotle");

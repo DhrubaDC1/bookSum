@@ -1,0 +1,766 @@
+{
+  "Fiction": [
+    { "title": "To Kill a Mockingbird", "author": "Harper Lee" },
+    { "title": "1984", "author": "George Orwell" },
+    { "title": "Pride and Prejudice", "author": "Jane Austen" },
+    { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald" },
+    { "title": "Moby-Dick", "author": "Herman Melville" },
+    { "title": "War and Peace", "author": "Leo Tolstoy" },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez"
+    },
+    { "title": "Crime and Punishment", "author": "Fyodor Dostoevsky" },
+    { "title": "The Catcher in the Rye", "author": "J.D. Salinger" },
+    { "title": "Ulysses", "author": "James Joyce" },
+    { "title": "The Brothers Karamazov", "author": "Fyodor Dostoevsky" },
+    { "title": "Brave New World", "author": "Aldous Huxley" },
+    { "title": "Jane Eyre", "author": "Charlotte Brontë" },
+    { "title": "Wuthering Heights", "author": "Emily Brontë" },
+    { "title": "The Odyssey", "author": "Homer" },
+    { "title": "Great Expectations", "author": "Charles Dickens" },
+    { "title": "The Lord of the Rings", "author": "J.R.R. Tolkien" },
+    { "title": "Middlemarch", "author": "George Eliot" },
+    { "title": "Anna Karenina", "author": "Leo Tolstoy" },
+    { "title": "Madame Bovary", "author": "Gustave Flaubert" },
+    { "title": "Lolita", "author": "Vladimir Nabokov" },
+    { "title": "Don Quixote", "author": "Miguel de Cervantes" },
+    { "title": "Beloved", "author": "Toni Morrison" },
+    { "title": "Invisible Man", "author": "Ralph Ellison" },
+    { "title": "A Tale of Two Cities", "author": "Charles Dickens" },
+    { "title": "The Iliad", "author": "Homer" },
+    { "title": "The Grapes of Wrath", "author": "John Steinbeck" },
+    { "title": "Catch-22", "author": "Joseph Heller" },
+    { "title": "Fahrenheit 451", "author": "Ray Bradbury" },
+    { "title": "The Sound and the Fury", "author": "William Faulkner" },
+    { "title": "Slaughterhouse-Five", "author": "Kurt Vonnegut" },
+    { "title": "The Kite Runner", "author": "Khaled Hosseini" },
+    { "title": "The Picture of Dorian Gray", "author": "Oscar Wilde" },
+    { "title": "Frankenstein", "author": "Mary Shelley" },
+    { "title": "Dracula", "author": "Bram Stoker" },
+    { "title": "The Hobbit", "author": "J.R.R. Tolkien" },
+    { "title": "The Sun Also Rises", "author": "Ernest Hemingway" },
+    { "title": "Les Misérables", "author": "Victor Hugo" },
+    { "title": "The Handmaid's Tale", "author": "Margaret Atwood" },
+    { "title": "A Clockwork Orange", "author": "Anthony Burgess" },
+    { "title": "Gulliver's Travels", "author": "Jonathan Swift" },
+    { "title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll" },
+    { "title": "Dr. Zhivago", "author": "Boris Pasternak" },
+    { "title": "Heart of Darkness", "author": "Joseph Conrad" },
+    { "title": "The Old Man and the Sea", "author": "Ernest Hemingway" },
+    { "title": "Rebecca", "author": "Daphne du Maurier" },
+    { "title": "Things Fall Apart", "author": "Chinua Achebe" },
+    { "title": "Life of Pi", "author": "Yann Martel" },
+    { "title": "David Copperfield", "author": "Charles Dickens" },
+    { "title": "Emma", "author": "Jane Austen" },
+    { "title": "The Stranger", "author": "Albert Camus" },
+    { "title": "One Flew Over the Cuckoo's Nest", "author": "Ken Kesey" },
+    { "title": "The Trial", "author": "Franz Kafka" },
+    { "title": "The Adventures of Huckleberry Finn", "author": "Mark Twain" },
+    { "title": "The Metamorphosis", "author": "Franz Kafka" },
+    { "title": "Sense and Sensibility", "author": "Jane Austen" },
+    { "title": "Gone with the Wind", "author": "Margaret Mitchell" },
+    { "title": "Of Mice and Men", "author": "John Steinbeck" },
+    { "title": "The Scarlet Letter", "author": "Nathaniel Hawthorne" },
+    { "title": "The Name of the Rose", "author": "Umberto Eco" },
+    { "title": "The Three Musketeers", "author": "Alexandre Dumas" },
+    { "title": "The Count of Monte Cristo", "author": "Alexandre Dumas" },
+    { "title": "The Book Thief", "author": "Markus Zusak" },
+    { "title": "Brideshead Revisited", "author": "Evelyn Waugh" },
+    { "title": "The Bell Jar", "author": "Sylvia Plath" },
+    { "title": "To the Lighthouse", "author": "Virginia Woolf" },
+    { "title": "The Road", "author": "Cormac McCarthy" },
+    { "title": "The Shining", "author": "Stephen King" },
+    { "title": "The Wind-Up Bird Chronicle", "author": "Haruki Murakami" },
+    { "title": "Norwegian Wood", "author": "Haruki Murakami" },
+    { "title": "The Alchemist", "author": "Paulo Coelho" },
+    { "title": "Cloud Atlas", "author": "David Mitchell" },
+    { "title": "A Passage to India", "author": "E.M. Forster" },
+    { "title": "The Master and Margarita", "author": "Mikhail Bulgakov" },
+    { "title": "The Remains of the Day", "author": "Kazuo Ishiguro" },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams"
+    },
+    { "title": "Watership Down", "author": "Richard Adams" },
+    { "title": "Atonement", "author": "Ian McEwan" },
+    { "title": "On the Road", "author": "Jack Kerouac" },
+    { "title": "Blood Meridian", "author": "Cormac McCarthy" },
+    {
+      "title": "Love in the Time of Cholera",
+      "author": "Gabriel Garcia Marquez"
+    },
+    { "title": "The Little Prince", "author": "Antoine de Saint-Exupéry" },
+    { "title": "Siddhartha", "author": "Hermann Hesse" },
+    { "title": "White Teeth", "author": "Zadie Smith" },
+    { "title": "The Secret Garden", "author": "Frances Hodgson Burnett" },
+    { "title": "Memoirs of a Geisha", "author": "Arthur Golden" },
+    { "title": "Dune", "author": "Frank Herbert" },
+    { "title": "The War of the Worlds", "author": "H.G. Wells" },
+    { "title": "Midnight's Children", "author": "Salman Rushdie" },
+    { "title": "Native Son", "author": "Richard Wright" },
+    { "title": "The Goldfinch", "author": "Donna Tartt" },
+    { "title": "The Bonfire of the Vanities", "author": "Tom Wolfe" },
+    { "title": "The Lovely Bones", "author": "Alice Sebold" },
+    { "title": "The Brief Wondrous Life of Oscar Wao", "author": "Junot Díaz" },
+    { "title": "The Poisonwood Bible", "author": "Barbara Kingsolver" },
+    { "title": "Americanah", "author": "Chimamanda Ngozi Adichie" },
+    { "title": "A Suitable Boy", "author": "Vikram Seth" }
+  ],
+  "Non-Fiction": [
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot"
+    },
+    { "title": "Educated", "author": "Tara Westover" },
+    { "title": "Becoming", "author": "Michelle Obama" },
+    { "title": "The Wright Brothers", "author": "David McCullough" },
+    {
+      "title": "The Elements of Style",
+      "author": "William Strunk Jr. and E.B. White"
+    },
+    { "title": "Thinking, Fast and Slow", "author": "Daniel Kahneman" },
+    { "title": "The Art of War", "author": "Sun Tzu" },
+    { "title": "A Brief History of Time", "author": "Stephen Hawking" },
+    { "title": "The Power of Habit", "author": "Charles Duhigg" },
+    { "title": "Guns, Germs, and Steel", "author": "Jared Diamond" },
+    { "title": "The Tipping Point", "author": "Malcolm Gladwell" },
+    {
+      "title": "Sapiens: A Graphic History",
+      "author": "Yuval Noah Harari, David Vandermeulen, Daniel Casanave"
+    },
+    {
+      "title": "Freakonomics",
+      "author": "Steven D. Levitt and Stephen J. Dubner"
+    },
+    { "title": "Man's Search for Meaning", "author": "Viktor E. Frankl" },
+    { "title": "The Sixth Extinction", "author": "Elizabeth Kolbert" },
+    { "title": "The Omnivore's Dilemma", "author": "Michael Pollan" },
+    {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+      "author": "Susan Cain"
+    },
+    { "title": "Outliers: The Story of Success", "author": "Malcolm Gladwell" },
+    {
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie"
+    },
+    { "title": "Into Thin Air", "author": "Jon Krakauer" },
+    { "title": "Born to Run", "author": "Christopher McDougall" },
+    { "title": "The Body Keeps the Score", "author": "Bessel van der Kolk" },
+    { "title": "Hillbilly Elegy", "author": "J.D. Vance" },
+    { "title": "Thinking in Bets", "author": "Annie Duke" },
+    {
+      "title": "Lean In: Women, Work, and the Will to Lead",
+      "author": "Sheryl Sandberg"
+    },
+    {
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee"
+    },
+    {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth"
+    },
+    { "title": "Educated: A Memoir", "author": "Tara Westover" },
+    {
+      "title": "The Emperor of All Maladies: A Biography of Cancer",
+      "author": "Siddhartha Mukherjee"
+    },
+    {
+      "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+      "author": "Matthew Walker"
+    },
+    {
+      "title": "Freakonomics",
+      "author": "Steven D. Levitt and Stephen J. Dubner"
+    },
+    {
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "author": "Malcolm Gladwell"
+    },
+    {
+      "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+      "author": "Eckhart Tolle"
+    },
+    {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "author": "Malcolm Gladwell"
+    },
+    {
+      "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+      "author": "Eckhart Tolle"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot"
+    },
+    { "title": "Educated", "author": "Tara Westover" },
+    { "title": "Becoming", "author": "Michelle Obama" },
+    { "title": "The Wright Brothers", "author": "David McCullough" },
+    {
+      "title": "The Elements of Style",
+      "author": "William Strunk Jr. and E.B. White"
+    },
+    { "title": "Thinking, Fast and Slow", "author": "Daniel Kahneman" },
+    { "title": "The Art of War", "author": "Sun Tzu" },
+    { "title": "A Brief History of Time", "author": "Stephen Hawking" },
+    { "title": "The Power of Habit", "author": "Charles Duhigg" },
+    { "title": "Guns, Germs, and Steel", "author": "Jared Diamond" },
+    { "title": "The Tipping Point", "author": "Malcolm Gladwell" },
+    {
+      "title": "Sapiens: A Graphic History",
+      "author": "Yuval Noah Harari, David Vandermeulen, Daniel Casanave"
+    },
+    {
+      "title": "Freakonomics",
+      "author": "Steven D. Levitt and Stephen J. Dubner"
+    },
+    { "title": "Man's Search for Meaning", "author": "Viktor E. Frankl" },
+    { "title": "The Sixth Extinction", "author": "Elizabeth Kolbert" },
+    { "title": "The Omnivore's Dilemma", "author": "Michael Pollan" },
+    {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+      "author": "Susan Cain"
+    },
+    { "title": "Outliers: The Story of Success", "author": "Malcolm Gladwell" },
+    {
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie"
+    },
+    { "title": "Into Thin Air", "author": "Jon Krakauer" },
+    { "title": "Born to Run", "author": "Christopher McDougall" },
+    { "title": "The Body Keeps the Score", "author": "Bessel van der Kolk" },
+    { "title": "Hillbilly Elegy", "author": "J.D. Vance" },
+    { "title": "Thinking in Bets", "author": "Annie Duke" },
+    {
+      "title": "Lean In: Women, Work, and the Will to Lead",
+      "author": "Sheryl Sandberg"
+    },
+    {
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee"
+    },
+    {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth"
+    },
+    { "title": "Educated: A Memoir", "author": "Tara Westover" },
+    {
+      "title": "The Emperor of All Maladies: A Biography of Cancer",
+      "author": "Siddhartha Mukherjee"
+    },
+    {
+      "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+      "author": "Matthew Walker"
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey"
+    },
+    { "title": "The Subtle Art of Not Giving a F*ck", "author": "Mark Manson" },
+    {
+      "title": "The Better Angels of Our Nature: Why Violence Has Declined",
+      "author": "Steven Pinker"
+    },
+    {
+      "title": "Born a Crime: Stories from a South African Childhood",
+      "author": "Trevor Noah"
+    },
+    {
+      "title": "Just Mercy: A Story of Justice and Redemption",
+      "author": "Bryan Stevenson"
+    },
+    {
+      "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+      "author": "Oliver Sacks"
+    },
+    {
+      "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+      "author": "Don Miguel Ruiz"
+    },
+    { "title": "When Breath Becomes Air", "author": "Paul Kalanithi" },
+    {
+      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author": "James Clear"
+    },
+    { "title": "In Cold Blood", "author": "Truman Capote" },
+    { "title": "The Body: A Guide for Occupants", "author": "Bill Bryson" },
+    {
+      "title": "Astrophysics for People in a Hurry",
+      "author": "Neil deGrasse Tyson"
+    },
+    {
+      "title": "The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics",
+      "author": "Roger Penrose"
+    },
+    {
+      "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+      "author": "Daron Acemoglu and James A. Robinson"
+    },
+    {
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "author": "Malcolm Gladwell"
+    },
+    {
+      "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+      "author": "Eckhart Tolle"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot"
+    },
+    { "title": "Educated", "author": "Tara Westover" },
+    { "title": "Becoming", "author": "Michelle Obama" },
+    { "title": "The Wright Brothers", "author": "David McCullough" },
+    {
+      "title": "The Elements of Style",
+      "author": "William Strunk Jr. and E.B. White"
+    },
+    { "title": "Thinking, Fast and Slow", "author": "Daniel Kahneman" },
+    { "title": "The Art of War", "author": "Sun Tzu" },
+    { "title": "A Brief History of Time", "author": "Stephen Hawking" },
+    { "title": "The Power of Habit", "author": "Charles Duhigg" },
+    { "title": "Guns, Germs, and Steel", "author": "Jared Diamond" },
+    { "title": "The Tipping Point", "author": "Malcolm Gladwell" },
+    {
+      "title": "Sapiens: A Graphic History",
+      "author": "Yuval Noah Harari, David Vandermeulen, Daniel Casanave"
+    },
+    {
+      "title": "Freakonomics",
+      "author": "Steven D. Levitt and Stephen J. Dubner"
+    },
+    { "title": "Man's Search for Meaning", "author": "Viktor E. Frankl" },
+    { "title": "The Sixth Extinction", "author": "Elizabeth Kolbert" },
+    { "title": "The Omnivore's Dilemma", "author": "Michael Pollan" },
+    {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+      "author": "Susan Cain"
+    },
+    { "title": "Outliers: The Story of Success", "author": "Malcolm Gladwell" },
+    {
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie"
+    },
+    { "title": "Into Thin Air", "author": "Jon Krakauer" },
+    { "title": "Born to Run", "author": "Christopher McDougall" },
+    { "title": "The Body Keeps the Score", "author": "Bessel van der Kolk" },
+    { "title": "Hillbilly Elegy", "author": "J.D. Vance" },
+    { "title": "Thinking in Bets", "author": "Annie Duke" },
+    {
+      "title": "Lean In: Women, Work, and the Will to Lead",
+      "author": "Sheryl Sandberg"
+    },
+    {
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee"
+    },
+    {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth"
+    },
+    { "title": "Educated: A Memoir", "author": "Tara Westover" },
+    {
+      "title": "The Emperor of All Maladies: A Biography of Cancer",
+      "author": "Siddhartha Mukherjee"
+    },
+    {
+      "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+      "author": "Matthew Walker"
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey"
+    },
+    { "title": "The Subtle Art of Not Giving a F*ck", "author": "Mark Manson" },
+    {
+      "title": "The Better Angels of Our Nature: Why Violence Has Declined",
+      "author": "Steven Pinker"
+    },
+    {
+      "title": "Born a Crime: Stories from a South African Childhood",
+      "author": "Trevor Noah"
+    },
+    {
+      "title": "Just Mercy: A Story of Justice and Redemption",
+      "author": "Bryan Stevenson"
+    },
+    {
+      "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+      "author": "Oliver Sacks"
+    },
+    {
+      "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+      "author": "Don Miguel Ruiz"
+    },
+    { "title": "When Breath Becomes Air", "author": "Paul Kalanithi" },
+    {
+      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author": "James Clear"
+    },
+    { "title": "In Cold Blood", "author": "Truman Capote" },
+    { "title": "The Body: A Guide for Occupants", "author": "Bill Bryson" },
+    {
+      "title": "Astrophysics for People in a Hurry",
+      "author": "Neil deGrasse Tyson"
+    }
+  ],
+  "Educational": [
+    { "title": "A Brief History of Time", "author": "Stephen Hawking" },
+    { "title": "The Selfish Gene", "author": "Richard Dawkins" },
+    {
+      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author": "Douglas Hofstadter"
+    },
+    {
+      "title": "The Feynman Lectures on Physics",
+      "author": "Richard P. Feynman, Robert B. Leighton, Matthew Sands"
+    },
+    {
+      "title": "The Structure of Scientific Revolutions",
+      "author": "Thomas S. Kuhn"
+    },
+    {
+      "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+      "author": "Carl Sagan"
+    },
+    { "title": "Thinking, Fast and Slow", "author": "Daniel Kahneman" },
+    { "title": "The Art of Thinking Clearly", "author": "Rolf Dobelli" },
+    { "title": "How to Solve It", "author": "George Pólya" },
+    {
+      "title": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
+      "author": "Richard P. Feynman"
+    },
+    {
+      "title": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+      "author": "Simon Singh"
+    },
+    {
+      "title": "The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics",
+      "author": "Roger Penrose"
+    },
+    {
+      "title": "A Short History of Nearly Everything",
+      "author": "Bill Bryson"
+    },
+    { "title": "Cosmos", "author": "Carl Sagan" },
+    {
+      "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+      "author": "Brian Greene"
+    },
+    {
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot"
+    },
+    {
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee"
+    },
+    {
+      "title": "The Origins of Political Order: From Prehuman Times to the French Revolution",
+      "author": "Francis Fukuyama"
+    },
+    {
+      "title": "The Blank Slate: The Modern Denial of Human Nature",
+      "author": "Steven Pinker"
+    },
+    {
+      "title": "The Rational Optimist: How Prosperity Evolves",
+      "author": "Matt Ridley"
+    },
+    { "title": "Outliers: The Story of Success", "author": "Malcolm Gladwell" },
+    { "title": "Educated", "author": "Tara Westover" },
+    {
+      "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+      "author": "Jared Diamond"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "author": "Yuval Noah Harari"
+    },
+    {
+      "title": "The Third Chimpanzee: The Evolution and Future of the Human Animal",
+      "author": "Jared Diamond"
+    },
+    {
+      "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+      "author": "Daron Acemoglu and James A. Robinson"
+    },
+    {
+      "title": "The Better Angels of Our Nature: Why Violence Has Declined",
+      "author": "Steven Pinker"
+    },
+    { "title": "The Wealth of Nations", "author": "Adam Smith" },
+    {
+      "title": "The Black Swan: The Impact of the Highly Improbable",
+      "author": "Nassim Nicholas Taleb"
+    },
+    {
+      "title": "Collapse: How Societies Choose to Fail or Succeed",
+      "author": "Jared Diamond"
+    },
+    { "title": "Gödel's Proof", "author": "Ernest Nagel and James R. Newman" },
+    {
+      "title": "The Grand Design",
+      "author": "Stephen Hawking and Leonard Mlodinow"
+    },
+    {
+      "title": "The Big Short: Inside the Doomsday Machine",
+      "author": "Michael Lewis"
+    },
+    {
+      "title": "The Singularity Is Near: When Humans Transcend Biology",
+      "author": "Ray Kurzweil"
+    },
+    {
+      "title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+      "author": "Brian Greene"
+    },
+    {
+      "title": "The Structure of Scientific Revolutions",
+      "author": "Thomas S. Kuhn"
+    },
+    {
+      "title": "The Shallows: What the Internet Is Doing to Our Brains",
+      "author": "Nicholas Carr"
+    },
+    {
+      "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+      "author": "Eric Ries"
+    },
+    {
+      "title": "The Art of Learning: An Inner Journey to Optimal Performance",
+      "author": "Josh Waitzkin"
+    },
+    {
+      "title": "The Elements of Style",
+      "author": "William Strunk Jr. and E.B. White"
+    },
+    {
+      "title": "Influence: The Psychology of Persuasion",
+      "author": "Robert B. Cialdini"
+    },
+    { "title": "Thinking, Fast and Slow", "author": "Daniel Kahneman" },
+    { "title": "The Art of War", "author": "Sun Tzu" },
+    {
+      "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+      "author": "Simon Sinek"
+    },
+    {
+      "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+      "author": "Don Miguel Ruiz"
+    },
+    {
+      "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+      "author": "Stephen R. Covey"
+    },
+    {
+      "title": "Thinking in Systems: A Primer",
+      "author": "Donella H. Meadows"
+    },
+    {
+      "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
+      "author": "Dan Ariely"
+    },
+    {
+      "title": "The Paradox of Choice: Why More Is Less",
+      "author": "Barry Schwartz"
+    },
+    {
+      "title": "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+      "author": "Jim Collins"
+    },
+    {
+      "title": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+      "author": "Clayton M. Christensen"
+    },
+    {
+      "title": "Blink: The Power of Thinking Without Thinking",
+      "author": "Malcolm Gladwell"
+    },
+    {
+      "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+      "author": "Eric Ries"
+    },
+    {
+      "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+      "author": "Charles Duhigg"
+    },
+    { "title": "The Design of Everyday Things", "author": "Don Norman" },
+    {
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie"
+    },
+    {
+      "title": "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results",
+      "author": "Gary Keller and Jay Papasan"
+    },
+    { "title": "The Magic of Thinking Big", "author": "David J. Schwartz" },
+    {
+      "title": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",
+      "author": "Timothy Ferriss"
+    },
+    {
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "author": "Daniel H. Pink"
+    },
+    {
+      "title": "Deep Work: Rules for Focused Success in a Distracted World",
+      "author": "Cal Newport"
+    },
+    {
+      "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+      "author": "Eric Ries"
+    },
+    {
+      "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+      "author": "Charles Duhigg"
+    },
+    { "title": "The Design of Everyday Things", "author": "Don Norman" },
+    {
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie"
+    },
+    {
+      "title": "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results",
+      "author": "Gary Keller and Jay Papasan"
+    },
+    { "title": "The Magic of Thinking Big", "author": "David J. Schwartz" },
+    {
+      "title": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",
+      "author": "Timothy Ferriss"
+    },
+    {
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "author": "Daniel H. Pink"
+    },
+    {
+      "title": "Deep Work: Rules for Focused Success in a Distracted World",
+      "author": "Cal Newport"
+    },
+    {
+      "title": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+      "author": "Clayton M. Christensen"
+    },
+    {
+      "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+      "author": "Ben Horowitz"
+    },
+    {
+      "title": "Hooked: How to Build Habit-Forming Products",
+      "author": "Nir Eyal"
+    },
+    {
+      "title": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+      "author": "Michael E. Gerber"
+    },
+    {
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "author": "Peter Thiel"
+    },
+    {
+      "title": "Lean Analytics: Use Data to Build a Better Startup Faster",
+      "author": "Alistair Croll and Benjamin Yoskovitz"
+    },
+    { "title": "Principles: Life and Work", "author": "Ray Dalio" },
+    {
+      "title": "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers",
+      "author": "Alexander Osterwalder and Yves Pigneur"
+    },
+    {
+      "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+      "author": "Simon Sinek"
+    },
+    { "title": "The Four Steps to the Epiphany", "author": "Steve Blank" },
+    { "title": "The Art of Profitability", "author": "Adrian Slywotzky" },
+    {
+      "title": "The Innovator's Solution: Creating and Sustaining Successful Growth",
+      "author": "Clayton M. Christensen"
+    },
+    {
+      "title": "Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers",
+      "author": "Geoffrey A. Moore"
+    },
+    {
+      "title": "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days",
+      "author": "Jake Knapp, John Zeratsky, and Braden Kowitz"
+    },
+    {
+      "title": "The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything",
+      "author": "Guy Kawasaki"
+    },
+    {
+      "title": "The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators",
+      "author": "Jeff Dyer, Hal Gregersen, and Clayton M. Christensen"
+    },
+    {
+      "title": "The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company",
+      "author": "Steve Blank and Bob Dorf"
+    },
+    { "title": "Rework", "author": "Jason Fried and David Heinemeier Hansson" },
+    {
+      "title": "The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback",
+      "author": "Dan Olsen"
+    },
+    {
+      "title": "Hooked: How to Build Habit-Forming Products",
+      "author": "Nir Eyal"
+    },
+    {
+      "title": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+      "author": "Michael E. Gerber"
+    },
+    {
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "author": "Peter Thiel"
+    },
+    {
+      "title": "Lean Analytics: Use Data to Build a Better Startup Faster",
+      "author": "Alistair Croll and Benjamin Yoskovitz"
+    },
+    { "title": "Principles: Life and Work", "author": "Ray Dalio" },
+    {
+      "title": "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers",
+      "author": "Alexander Osterwalder and Yves Pigneur"
+    },
+    {
+      "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+      "author": "Simon Sinek"
+    },
+    { "title": "The Four Steps to the Epiphany", "author": "Steve Blank" },
+    { "title": "The Art of Profitability", "author": "Adrian Slywotzky" }
+  ]
+}
